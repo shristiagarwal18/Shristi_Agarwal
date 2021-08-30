@@ -1,5 +1,4 @@
 # ShristiAgarwal18
-About me.
 💻I am currently learning C++ and learnt Python and Java.
 👀I seek to increase my knowledge in coding by taking parts in Hackathon.
 Currently working on "building tomorrow" by hackerearth website.
